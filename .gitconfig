@@ -1,0 +1,15 @@
+[user]
+	name = Kate Kirby
+	email = kirbyk@gmail.com
+[core]
+	editor = /usr/bin/vim
+[help]
+	autocorrect = 5
+[color]
+	ui = true
+[diff]
+	tool = difftool
+[credential]
+	helper = osxkeychain
+[grep]
+	lineNumber = true
